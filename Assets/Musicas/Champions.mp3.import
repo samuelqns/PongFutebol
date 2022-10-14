@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Champions.mp3-e48ed2db21fd3caadb99ab13863e3bc5.mp3str"
+
+[deps]
+
+source_file="res://Assets/Musicas/Champions.mp3"
+dest_files=[ "res://.import/Champions.mp3-e48ed2db21fd3caadb99ab13863e3bc5.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
